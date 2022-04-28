@@ -1,4 +1,4 @@
-# Hi there <img src=https://raw.githubusercontent.com/arthurkko/arthurkko/main/img/wave.gif width="30px">
+# Hi there <img src=./img/wave.gif width="30px">
 
 <!--
 **arthurkko/arthurkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arthur, currently graduating in Control and Automation Engineering at Instituto Mauá de Tecnologia in Brazil 🇧🇷
+I'm Arthur, currently graduating in Control and Automation Engineering at Instituto Mauá de Tecnologia in Brazil 🇧🇷. I made projects in python <img src=./img/python.svg width="15px"> and arduino <img src=./img/arduino.svg width="15px">.
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-MacOS-informational?style=plas&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=plas&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=plas&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Arduino-informational?style=plas&logo=arduino&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Zsh-informational?style=plas&logo=gnu-ash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=plas&logo=gnu-bash&logoColor=white&color=2bbc8a)
