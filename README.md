@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there <img src=https://raw.githubusercontent.com/arthurkko/arthurkko/main/img/wave.gif width="30px">
 
 <!--
 **arthurkko/arthurkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
