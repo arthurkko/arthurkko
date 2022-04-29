@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arthur, currently graduating in Control and Automation Engineering at Instituto Mauá de Tecnologia in Brazil 🇧🇷. I made projects in python <img src=./img/python.svg width="15px"> and arduino <img src=./img/arduino.svg width="15px">.
+I'm Arthur, currently graduating in Control and Automation Engineering at Instituto Mauá de Tecnologia in Brazil 🇧🇷. I make projects mostly in python and arduino.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=plas&logo=apple&logoColor=white&color=2bbc8a)
