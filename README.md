@@ -1,4 +1,4 @@
-# Hi there <img src=./img/wave.gif width="30px">
+# Hello ! <img src=./img/wave.gif width="30px">
 
 <!--
 **arthurkko/arthurkko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arthur, currently graduating in Control and Automation Engineering at Instituto Mauá de Tecnologia in Brazil 🇧🇷. I make projects mostly in python and arduino.
+I'm Arthur, currently graduating in Control and Automation Engineering at Instituto Mauá de Tecnologia in Brazil 🇧🇷. I make projects mostly in python <img src=./img/python.svg width="16px"> and arduino <img src=./img/arduino.svg width="16px">.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=plas&logo=apple&logoColor=white&color=2bbc8a)
@@ -24,3 +24,7 @@ I'm Arthur, currently graduating in Control and Automation Engineering at Instit
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=plas&logo=arduino&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Zsh-informational?style=plas&logo=gnu-ash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=plas&logo=gnu-bash&logoColor=white&color=2bbc8a)
+
+## 📱 Social Media
+
+You can find me on [![Linkdin](img/linkedin-3-16.png)](https://www.linkedin.com/in/arthurko/) !
