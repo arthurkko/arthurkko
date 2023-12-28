@@ -24,8 +24,13 @@ I'm Arthur, graduated in Control and Automation Engineering at Instituto Mauá d
 * Frameworks/Libraries: TensorFlow, Keras
 * Tools: Jupyter, Git
 * Languages: Portuguese, English
-
-
+<!--
+## Project:
+Project Name 1
+* Brief description.
+* Technologies used.
+* Link to the repository.
+-->
 ## 📱 Social Media
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arthurko/)
