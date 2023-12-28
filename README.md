@@ -24,13 +24,13 @@ I'm Arthur, graduated in Control and Automation Engineering at Instituto Mauá d
 * Frameworks/Libraries: TensorFlow, Keras
 * Tools: Jupyter, Git
 * Languages: Portuguese, English
-<!--
-## Project:
-Project Name 1
-* Brief description.
-* Technologies used.
-* Link to the repository.
--->
+
+## Projects:
+###Object Detection with Stereo Vision System for Autonomous Cars (Jetson Nano)
+* Developement a stereo vision system for the autonomous car project at Instituto Mauá de Tecnologia (IMT).
+* Python, Yolov8, Jetson Nano
+* https://github.com/arthurkko/visao-estereo
+
 ## 📱 Social Media
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arthurko/)
