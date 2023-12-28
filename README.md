@@ -26,7 +26,7 @@ I'm Arthur, graduated in Control and Automation Engineering at Instituto Mauá d
 * Languages: Portuguese, English
 
 ## Projects:
-###Object Detection with Stereo Vision System for Autonomous Cars (Jetson Nano)
+### Object Detection with Stereo Vision System for Autonomous Cars (Jetson Nano)
 * Developement a stereo vision system for the autonomous car project at Instituto Mauá de Tecnologia (IMT).
 * Python, Yolov8, Jetson Nano
 * https://github.com/arthurkko/visao-estereo
