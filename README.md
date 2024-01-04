@@ -34,6 +34,7 @@ I'm Arthur, graduated in Control and Automation Engineering at Instituto Mauá d
 ## 📱 Social Media
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arthurko/)
+![](https://linkedin.com/in/aashir-khan-bb8315139)
 
 
 ## 🔧 Technologies & Tools
